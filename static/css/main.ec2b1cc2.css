@@ -1,0 +1,2 @@
+body{background-color:#b15943;color:#fff;font-family:sans-serif;font-size:1.4rem}main{margin-inline:auto;max-width:1000px;padding:1em}main p{text-align:center}.cards-container{grid-gap:1rem;display:grid;gap:1rem;grid-template-columns:repeat(5,200px);margin-top:2rem}.card{border:1px solid;cursor:pointer;height:200px;text-align:center}.card:hover{box-shadow:1px 1px 10px #13f0aa}
+/*# sourceMappingURL=main.ec2b1cc2.css.map*/
