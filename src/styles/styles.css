@@ -1,0 +1,34 @@
+body {
+  font-family: sans-serif;
+  background-color: #b15943;
+  color: #fff;
+  font-size: 1.4rem;
+}
+
+main {
+  max-width: 1000px;
+  margin-inline: auto;
+  padding: 1em;
+}
+
+main p {
+  text-align: center;
+}
+
+.cards-container {
+  display: grid;
+  grid-template-columns: repeat(5, 200px);
+  gap: 1rem;
+  margin-top: 2rem;
+}
+
+.card {
+  height: 200px;
+  border: 1px solid;
+  text-align: center;
+  cursor: pointer;
+}
+
+.card:hover {
+  box-shadow: 1px 1px 10px #13f0aa;
+}
